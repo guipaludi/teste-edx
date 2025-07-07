@@ -62,4 +62,3 @@ Teste técnico realizado pela EDX para a vaga de Desenvolvedor Fullstack
 ```
 ---
 <sup>Projeto desenvolvido por Guilherme Paluri
-# :construction: Under development...:construction:
